@@ -12,7 +12,7 @@ https://blog.naver.com/jogilsang/221377073174
 <hr/>
 
 ### 작성법
-라인피드(Linefeed)
+1. 라인피드(Linefeed)
 - 줄에다가 스페이스+스페이스 를 넣는다
 ```
 사람을 존경하라,  
