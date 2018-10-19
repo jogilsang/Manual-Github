@@ -30,6 +30,8 @@ https://blog.naver.com/jogilsang/221377073174
 - git 파일내부 
 ```
 "![](/11.png)"
+
+android : 320 x 524
 ```
 ![](/11.png)
 
