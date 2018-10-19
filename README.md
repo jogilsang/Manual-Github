@@ -24,3 +24,19 @@ https://blog.naver.com/jogilsang/221377073174
 
 그러면 그는 더 많은 일을 해 낼 것이다.
 ```
+
+2. 이미지 리사이즈(Image Resize)
+
+- git 파일내부
+![](/introduce/1024500.png)
+
+- 웹 페이지 가져오기
+![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png)
+
+- 리사이즈 방법 1
+![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png | width=100)
+
+- 리사이즈 방법 2
+![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png =250x250)
+
+
