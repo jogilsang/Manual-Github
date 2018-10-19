@@ -31,7 +31,7 @@ https://blog.naver.com/jogilsang/221377073174
 ![](/11.png)
 
 - git 파일 리사이즈 1
-![](/11.png= 50x50)
+![](/11.png){: width="50" height="50"){: .center}
 
 - 웹 페이지 가져오기
 ![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png)
