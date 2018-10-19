@@ -27,10 +27,16 @@ https://blog.naver.com/jogilsang/221377073174
 
 2. 이미지 리사이즈(Image Resize)
 
-- git 파일내부
+- git 파일내부 
+```
+"![](/11.png)"
+```
 ![](/11.png)
 
 - git 파일 리사이즈 1
+```
+<center><img src="/11.png" width="300" height="300"></center>
+```
 <center><img src="/11.png" width="300" height="300"></center>
 
 - 웹 페이지 가져오기
