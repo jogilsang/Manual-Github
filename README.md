@@ -28,7 +28,7 @@ https://blog.naver.com/jogilsang/221377073174
 2. 이미지 리사이즈(Image Resize)
 
 - git 파일내부
-![](/introduce/1024500.png)
+![](/11.png)
 
 - 웹 페이지 가져오기
 ![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png)
