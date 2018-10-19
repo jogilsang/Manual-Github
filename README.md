@@ -34,12 +34,7 @@ https://blog.naver.com/jogilsang/221377073174
 <center><img src="/11.png" width="300" height="300"></center>
 
 - 웹 페이지 가져오기
-![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png)
+![](https://blogpfthumb-phinf.pstatic.net/MjAxNzEyMDhfMTMy/MDAxNTEyNzA3MTc0ODA3.rbnlwP_k8OCxoan813kT-Q0DVAxw8Vgb0co6Ivpcg1Yg.QdHiNjmkf1OVkzCy8ZIyyy1cjDe2947sLVuj9vynVpQg.PNG.jogilsang/JS.png?type=w161)
 
-- 리사이즈 방법 1
-![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png | width=100)
-
-- 리사이즈 방법 2
-![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png =250x250)
 
 
