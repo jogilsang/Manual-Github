@@ -5,6 +5,22 @@
 
 https://blog.naver.com/jogilsang/221236806980
 
+```
+(new)
+git config --global user.name "jogilsang"
+git config --global user.email jogilsang@gmail.com
+git init
+git status
+git add -A
+git commit -m "update"
+git push -f origin master
+
+(modifyed)
+git add -A
+git commit -m "update"
+git push -f origin master
+```
+
 - Github의 Fork한 Repository 삭제
 
 https://blog.naver.com/jogilsang/221377073174
