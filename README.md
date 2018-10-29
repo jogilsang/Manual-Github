@@ -13,6 +13,7 @@ git init
 git status
 git add -A
 git commit -m "update"
+git remote add origin [git address]
 git push -f origin master
 
 (modifyed)
