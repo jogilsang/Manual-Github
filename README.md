@@ -48,15 +48,15 @@ https://blog.naver.com/jogilsang/221377073174
 ```
 "![](/11.png)"
 
-android : 320 x 524
+android : 375 x 667
 ```
 ![](/11.png)
 
 - git 파일 리사이즈 1
 ```
-<center><img src="/11.png" width="300" height="300"></center>
+<center><img src="/11.png" width="375" height="667"></center>
 ```
-<center><img src="/11.png" width="300" height="300"></center>
+<center><img src="/11.png" width="375" height="667"></center>
 
 - 웹 페이지 가져오기
 ```
