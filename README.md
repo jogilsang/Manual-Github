@@ -20,7 +20,14 @@ git push -f origin master
 git add -A
 git commit -m "update"
 git push -f origin master
+
+(down)
+git clone [git address]
+git pull [git address]
 ```
+
+
+
 
 - Github의 Fork한 Repository 삭제
 
