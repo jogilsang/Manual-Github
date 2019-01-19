@@ -53,7 +53,12 @@ https://blog.naver.com/jogilsang/221377073174
 ```
         tabLayout.setTabGravity(TabLayout.GRAVITY_FILL);
         tabLayout.setTabMode(TabLayout.MODE_SCROLLABLE);
+       
 ```
+
+### 타이틀바 상태바 액션바 titlebar actionbar bar
+android:theme="@android:style/Theme.NoTitleBar"  
+
 
 ### 작성법
 1. 라인피드(Linefeed)
