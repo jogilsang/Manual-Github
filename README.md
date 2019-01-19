@@ -59,6 +59,11 @@ https://blog.naver.com/jogilsang/221377073174
 ### 타이틀바 상태바 액션바 titlebar actionbar bar
 android:theme="@android:style/Theme.NoTitleBar"  
 
+<style name="Theme.MyDialog" parent="@style/Theme.AppCompat.Light.Dialog">
+    <item name="windowActionBar">false</item>
+    <item name="windowNoTitle">true</item>
+</style>
+
 
 ### 작성법
 1. 라인피드(Linefeed)
