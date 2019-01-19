@@ -21,6 +21,17 @@ git add -A
 git commit -m "update"
 git push -f origin master
 
+(특정경로,특정폴더)
+git init copyGit
+cd copyGit
+git remote add -f origin <REMOTE_URL>
+echo "MyTabLayout" >> .git/info/sparse-checkout
+git pull origin master
+
+echo "MyTabLayout/etc" >> .git/info/sparse-checkout
+
+src : https://www.lesstif.com/pages/viewpage.action?pageId=20776761
+
 (down)
 git clone [git address]
 git pull [git address]
