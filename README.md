@@ -6,6 +6,9 @@
 https://blog.naver.com/jogilsang/221236806980
 
 ```
+(readme)
+ echo "# android-template-2" >> README.md
+
 (new)
 git config --global user.name "jogilsang"
 git config --global user.email jogilsang@gmail.com
