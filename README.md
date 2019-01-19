@@ -49,6 +49,12 @@ https://blog.naver.com/jogilsang/221377073174
 
 <hr/>
 
+### tablayout tab scroll 텝스크롤 탭스크롤 
+```
+        tabLayout.setTabGravity(TabLayout.GRAVITY_FILL);
+        tabLayout.setTabMode(TabLayout.MODE_SCROLLABLE);
+```
+
 ### 작성법
 1. 라인피드(Linefeed)
 - 줄에다가 스페이스+스페이스 를 넣는다
