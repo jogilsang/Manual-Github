@@ -49,6 +49,24 @@ https://blog.naver.com/jogilsang/221377073174
 
 <hr/>
 
+### nestedscrollview 네스티드스크롤뷰 중앙정렬 center align
+```
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:card_view="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="8dp"
+        android:layout_gravity="center"
+        android:gravity="center"
+        >
+```
+
 ### tablayout tab scroll 텝스크롤 탭스크롤 
 ```
         tabLayout.setTabGravity(TabLayout.GRAVITY_FILL);
