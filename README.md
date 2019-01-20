@@ -49,6 +49,40 @@ https://blog.naver.com/jogilsang/221377073174
 
 <hr/>
 
+### 툴바 메뉴 toolbar menu
+```
+    @Override
+    public boolean onCreateOptionsMenu(Menu menu) {
+        // Inflate the menu; this adds items to the action bar if it is present.
+        getMenuInflater().inflate(R.menu.menu_main, menu);
+        return true;
+    }
+
+    @Override
+    public boolean onOptionsItemSelected(MenuItem item) {
+        // Handle item selection
+        switch (item.getItemId()) {
+
+            case R.id.action_settings:
+
+                //startSettings();
+
+                return true;
+
+
+            case R.id.action_exit:
+
+                actionExit();
+
+                return true;
+
+
+            default:
+                return super.onOptionsItemSelected(item);
+        }
+    }
+```
+
 ### nestedscrollview 네스티드스크롤뷰 중앙정렬 center align
 ```
 <android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
