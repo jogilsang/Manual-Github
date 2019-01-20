@@ -49,7 +49,18 @@ https://blog.naver.com/jogilsang/221377073174
 
 <hr/>
 
-### 툴바 메뉴 toolbar menu
+### 툴바 메뉴 설정 색깔 toolbar menu setting color
+
+세팅
+```
+    <style name="MainTheme.NoActionBar" parent="@style/Theme.AppCompat.DayNight.NoActionBar">
+        <!-- Customize color of menu icon in toolbar. -->
+        <item name="android:textColorSecondary">@color/color_main</item>
+
+    </style>
+```
+
+설정  
 ```
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
