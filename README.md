@@ -25,13 +25,17 @@ git commit -m "update"
 git push -f origin master
 
 (특정경로,특정폴더)
+copyGit -> 폴더이름
+.git/info/sparse-checkout -> 옵션이름
+
 git init copyGit
 cd copyGit
+git config core.sparseCheckout true
 git remote add -f origin <REMOTE_URL>
-echo "MyTabLayout" >> .git/info/sparse-checkout
+echo "you want folder" >> .git/info/sparse-checkout
 git pull origin master
 
-echo "MyTabLayout/etc" >> .git/info/sparse-checkout
+ex : echo "MyTabLayout/etc" >> .git/info/sparse-checkout
 
 src : https://www.lesstif.com/pages/viewpage.action?pageId=20776761
 
