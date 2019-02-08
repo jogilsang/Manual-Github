@@ -6,6 +6,10 @@
 https://blog.naver.com/jogilsang/221236806980
 
 ```
+(remote del)
+git remote -v
+git remote rm origin
+
 (readme)
  echo "# android-template-2" >> README.md
 
