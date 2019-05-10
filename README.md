@@ -1,5 +1,8 @@
 # Manual-Github
 
+### 성공적인 Git 브랜치 모델
+https://nvie.com/posts/a-successful-git-branching-model/
+
 ### 링크
 - Github 사용법 및 올리는법 - 시행착오 많이겪음 및 에러 해결
 
