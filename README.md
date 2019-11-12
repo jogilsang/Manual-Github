@@ -127,6 +127,9 @@ https://blog.naver.com/jogilsang/221377073174
 - Github의 프로필만들기  
 https://sujinlee.me/professional-github/  
 
+- 커밋 메세지 작성하는방법 : 유다시티
+https://udacity.github.io/git-styleguide/
+
 <hr/>
 
 
