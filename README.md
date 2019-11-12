@@ -158,7 +158,10 @@ https://udacity.github.io/git-styleguide/
 https://github.com/matiassingers/awesome-readme  
 
 - adam-p/markdown-here  
-https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#lines  
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#lines 
+
+- shields.io, badge  
+https://shields.io/category/license  
 
 <hr/>
 
