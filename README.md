@@ -138,7 +138,7 @@ android : 375 x 667
  
  <hr/>
  
-### 링크
+### Github 관련 링크
 - Github 사용법 및 올리는법 - 시행착오 많이겪음 및 에러 해결  
 https://blog.naver.com/jogilsang/221236806980  
 
@@ -151,8 +151,14 @@ https://blog.naver.com/jogilsang/221377073174
 - Github의 프로필만들기  
 https://sujinlee.me/professional-github/  
 
-- 커밋 메세지 작성하는방법 : 유다시티
-https://udacity.github.io/git-styleguide/
+- 커밋 메세지 작성하는방법 : 유다시티  
+https://udacity.github.io/git-styleguide/  
+
+- matiassingers/awesome-readme  
+https://github.com/matiassingers/awesome-readme  
+
+- adam-p/markdown-here  
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#lines  
 
 <hr/>
 
