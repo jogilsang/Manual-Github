@@ -24,20 +24,20 @@ git add -A
 git commit -m "update"
 git push -f origin master
 
-(특정경로,특정폴더)
-copyGit -> 폴더이름
-.git/info/sparse-checkout -> 옵션이름
+(Specify path or folder Download, 특정경로,특정폴더)
+src : https://www.lesstif.com/pages/viewpage.action?pageId=20776761
 
-git init copyGit
-cd copyGit
+<COPY_GIT> -> 폴더이름(Forder Name)
+.git/info/sparse-checkout -> 옵션이름 (Option Name)
+
+git init <COPY_GIT>
+cd <COPY_GIT>
 git config core.sparseCheckout true
 git remote add -f origin <REMOTE_URL>
+
 echo "you want folder" >> .git/info/sparse-checkout
 git pull origin master
-
-ex : echo "MyTabLayout/etc" >> .git/info/sparse-checkout
-
-src : https://www.lesstif.com/pages/viewpage.action?pageId=20776761
+(ex : echo "MyTabLayout/etc" >> .git/info/sparse-checkout)
 
 (Download)
 git clone [git address]
@@ -84,6 +84,8 @@ stash는 임시저장소로 커밋하지않은 상태에서 브런치를 변경�
 그러면 그는 더 많은 일을 해 낼 것이다.
 ```
 
+
+
 2. 이미지 리사이즈(Image Resize)
 
 - git 파일내부 
@@ -114,7 +116,10 @@ https://blog.naver.com/jogilsang/221236806980
 https://nvie.com/posts/a-successful-git-branching-model/  
 
 - Github의 Fork한 Repository 삭제  
-https://blog.naver.com/jogilsang/221377073174  
+https://blog.naver.com/jogilsang/221377073174    
+  
+- Github의 프로필만들기  
+https://sujinlee.me/professional-github/  
 
 <hr/>
 
