@@ -57,7 +57,7 @@ Type: 제목(Title)
 Example :   
 docs: Edit README.md to include New Features Use-Cases  
 
-2. Type
+1. Type
 - feat: 새로운 기능을 추가할 경우  
 - fix: 버그를 고친 경우  
 - docs: 문서 수정한 경우  
