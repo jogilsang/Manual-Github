@@ -44,7 +44,9 @@ git clone [git address]
 git pull [git address]
 ```
 
-### 내용정리
+<hr/>
+
+### Github 내용정리
 1. Git은 업데이트 이력이 남고, 동시에 여러 사람이 같은 파일을 덮어씌운다던가 하는 실수를 미연에 방지할수있는 훌륭한 통합시스템이다.  
 Git에서 저장소는 repository 라고 한다. 로컬과 원격 repository로 나뉘게 되며, 로컬의 경우 컴퓨터  
 원격의 경우 Git서버라고 보면되겠다. pull, push, clone 세가지 기능이 있다  
@@ -69,6 +71,8 @@ feature 브런치는 토픽브런치라고도 하며, 기능추가,버그수정 
 1. 브랜치를 전환하는 작업의 command를 checkout이라고한다.   
 해당 브런치의 최상단 케이스를 Head라고 하며, 그 이전 케이스들은 ^(캐럿), ~(틸드)를 head와 같이 기술하여 표현할수있다.  
 stash는 임시저장소로 커밋하지않은 상태에서 브런치를 변경하게될때, 임시로 변경사항들을 저장한다음 변경된 브런치에서 커밋할떄 사용한다. 
+
+<hr/>
 
 ### Github README.md 작성법
 1. 라인피드(Linefeed)
@@ -107,6 +111,8 @@ android : 375 x 667
 ![](https://blogpfthumb-phinf.pstatic.net/MjAxNzEyMDhfMTMy/MDAxNTEyNzA3MTc0ODA3.rbnlwP_k8OCxoan813kT-Q0DVAxw8Vgb0co6Ivpcg1Yg.QdHiNjmkf1OVkzCy8ZIyyy1cjDe2947sLVuj9vynVpQg.PNG.jogilsang/JS.png?type=w161)
 ```
 ![](https://blogpfthumb-phinf.pstatic.net/MjAxNzEyMDhfMTMy/MDAxNTEyNzA3MTc0ODA3.rbnlwP_k8OCxoan813kT-Q0DVAxw8Vgb0co6Ivpcg1Yg.QdHiNjmkf1OVkzCy8ZIyyy1cjDe2947sLVuj9vynVpQg.PNG.jogilsang/JS.png?type=w161)
+ 
+ <hr/>
  
 ### 링크
 - Github 사용법 및 올리는법 - 시행착오 많이겪음 및 에러 해결  
