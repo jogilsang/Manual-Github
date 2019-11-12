@@ -46,6 +46,30 @@ git pull [git address]
 
 <hr/>
 
+### Github Commit message
+```
+Type: 제목(Title)
+
+본문(Body)
+
+꼬리말(Footer)
+```
+Example :   
+docs: Edit README.md to include New Features Use-Cases  
+
+2. Type
+- feat: 새로운 기능을 추가할 경우  
+- fix: 버그를 고친 경우  
+- docs: 문서 수정한 경우  
+- style: 코드 포맷 변경, 세미 콜론 누락, 코드 수정이 없는 경우  
+- refactor: 프로덕션 코드 리팩터링  
+- test: 테스트 추가, 테스트 리팩터링 (프로덕션 코드 변경 없음)  
+- chore: 빌드 테스크 업데이트, 패키지 매니저 설정할 경우 (프로덕션 코드 변경 없음)  
+
+2. Body
+- 제목과 본문 사이에 한줄공백, 본문은 한줄에 72자 이내, 구분시 -(불렛)사용
+
+
 ### Github 내용정리
 1. Git은 업데이트 이력이 남고, 동시에 여러 사람이 같은 파일을 덮어씌운다던가 하는 실수를 미연에 방지할수있는 훌륭한 통합시스템이다.  
 Git에서 저장소는 repository 라고 한다. 로컬과 원격 repository로 나뉘게 되며, 로컬의 경우 컴퓨터  
