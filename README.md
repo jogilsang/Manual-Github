@@ -1,5 +1,10 @@
 # Manual-Github
 
+### Github .gitignore
+```
+( https://github.com/github/gitignore/blob/master/Node.gitignore )
+```
+
 ### Github Command
 ```
 (Remote del)
