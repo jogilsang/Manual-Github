@@ -3,6 +3,19 @@
 ### Github .gitignore
 ```
 ( https://github.com/github/gitignore/blob/master/Node.gitignore )
+
+// 현재 Repository의 cache를 모두 삭제한다.
+git rm -r --cached .
+
+// [File Name]에 해당하는 파일을 원격 저장소에서 삭제한다.
+// (로컬 저장소에 있는 파일은 삭제하지 않는다.)
+git rm -r --cached [File Name]
+
+// .gitignore에 넣은 파일 목록들을 제외하고 다른 모든 파일을 다시 track하도록 설정한다.
+git add .
+
+git commit -m "Fixed untracked files"
+
 ```
 
 ### Github Command
