@@ -18,6 +18,11 @@ git commit -m "Fixed untracked files"
 
 ```
 
+### Github .gitignore 자동
+```
+https://www.toptal.com/developers/gitignore
+```
+
 ### Github Command
 ```
 (Remote del)
