@@ -22,7 +22,7 @@ bin/
 gen/
 out/
 #  Uncomment the following line in case you need and you don't have the release build type files in your app
-# release/
+release/
 
 # Gradle files
 .gradle/
@@ -67,6 +67,7 @@ captures/
 .cxx/
 
 # Google Services (e.g. APIs or Firebase)
+# 구글에서 
 google-services.json
 
 # Freeline
