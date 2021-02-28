@@ -1,5 +1,11 @@
 # Manual-Github
 
+
+### Git Doc
+```
+file:///D:/program/Git/mingw64/share/doc/git-doc
+```
+
 ### Github .gitignore
 ```
 ( https://github.com/github/gitignore/blob/master/Node.gitignore )
