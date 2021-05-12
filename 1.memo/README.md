@@ -1,15 +1,6 @@
 
 # 1.memo
 
-### 1. Github App을 Channel에 추가한다.
-
-### 2. Channel에서 구독한다.
-```
-/github subscribe owner/repository
-옵션 추가 : /github subscribe owner/repository reviews comments
-옵션 삭제 : /github unsubscribe owner/repository
-```
-
 ### Git Doc
 ```
 file:///D:/program/Git/mingw64/share/doc/git-doc
@@ -83,12 +74,6 @@ git pull [git address]
 ```
 
 <hr/>
-
-### Github Flow 깃 플로우 깃 
-```
-학습사이트 : 
-https://learngitbranching.js.org/?demo
-```
 
 ### Github Commit message
 ```

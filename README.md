@@ -12,11 +12,10 @@
   - [깃허브Github - (3) - 프로필 페이지 꾸미기, stats and most used languages](https://blog.naver.com/jogilsang/222343155410)
 
 ## Reference
+- [Git-flow 게임사이트](https://learngitbranching.js.org/?demo)
 - [성공적인 Git 브랜치 모델](https://nvie.com/posts/a-successful-git-branching-model/)  
 - [Github의 프로필만들기](https://sujinlee.me/professional-github/)  
 - [커밋 메세지 작성하는방법 : 유다시티](https://udacity.github.io/git-styleguide/)  
 - [matiassingers/awesome-readme](https://github.com/matiassingers/awesome-readme)  
 - [adam-p/markdown-here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#lines) 
 - [shields.io, badge](https://shields.io/category/license)  
-
-
